@@ -37,3 +37,9 @@ ENV/
 .DS_Store
 Thumbs.db
 
+# Generated artifacts
+mnist_model.h5
+training_history.png
+sample_predictions.png
+*.h5
+*.png
